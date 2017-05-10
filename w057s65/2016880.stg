@@ -9,6 +9,9 @@ OBJECT_SHARED Models/Communications/mil-antena-45m.xml -56.62934967 -64.23913174
 OBJECT_SHARED Models/Communications/mil-antena-45m.xml -56.62591457 -64.23993328 0 0
 OBJECT_SHARED Models/Communications/mil-antena-45m.xml -56.62581037 -64.23870026 0 0
 OBJECT_SHARED Models/Communications/mil-antena-45m.xml -56.62367151 -64.24163285 -0.02 0
+OBJECT_SHARED Models/Aircraft/c130-herc-obj2.xml -56.6289746 -64.2407879 0 48
+OBJECT_SHARED Models/Airport/caisses1.xml -56.6285994 -64.2408722 0 0
+OBJECT_SHARED Models/Aircraft/dhc6_red_lowpoly.ac -56.6274723 -64.2405559 0 96
 OBJECT_STATIC Antarctica_House_20m.xml -56.6245 -64.24062 -0.01 307.6
 OBJECT_STATIC Antarctica_House_20m.xml -56.624253 -64.240888 -0.01 308
 OBJECT_STATIC Antarctica_House_20m.xml -56.62421 -64.23922 0 300
